@@ -1,0 +1,32 @@
+.text-center{
+    text-align: center;
+  }
+  
+  .bg-red{
+    background: red;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+  .container{
+    /* background: purple; */
+     border: 2px solid blueviolet;
+     background-image: url("bg.jpg");
+     background-size: cover;
+  } 
+  .row{
+    background-color: blue;
+    border: 2px solid black;
+  }
